@@ -21,4 +21,8 @@ for ex - this file i wanted to add this file to a branch and want it to be track
 7. git log --online - Tells us about the full Commit history in compact form where it shows the tracking id 
 for ex - for this file the tracking was done because it was tracked and the id was b3772eb (HEAD -> master) Initial commit of git-commands.md
 
-8. git revert commit-id - creates new commit that undoes changes made by given commit  
+8. git revert commit-id - creates new commit that undoes changes made by given commit
+
+9. git clone <url> - Clones a Already Exists GitHub repo 
+for ex - When your friend has a project which you want to copy to your local form a remote the we do git clone where the whole github repo get clone to the local from remote 
+  
