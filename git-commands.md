@@ -19,4 +19,6 @@ for ex- You want to commit a untracked file to staging and want to commit the fi
 for ex - this file i wanted to add this file to a branch and want it to be tracked 
 
 7. git log --online - Tells us about the full Commit history in compact form where it shows the tracking id 
-for ex - for this file the tracking was done because it was tracked and the id was b3772eb (HEAD -> master) Initial commit of git-commands.md  
+for ex - for this file the tracking was done because it was tracked and the id was b3772eb (HEAD -> master) Initial commit of git-commands.md
+
+8. git revert commit-id - creates new commit that undoes changes made by given commit  
